@@ -1,3 +1,3 @@
 ln -s $PWD/.vim/  ~/.vim
-ln .vimrc  ~/.vimrc
+ln $PWD/.vimrc  ~/.vimrc
 echo "Everything is now linked to the default path"
