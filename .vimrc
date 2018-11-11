@@ -33,7 +33,7 @@ filetype plugin indent on    " required
 " Put the rest of your .vimrc file here
 "
 "
-filetype on
+"filetype on
 map <C-n> :NERDTreeToggle<CR>
 
 syntax on
